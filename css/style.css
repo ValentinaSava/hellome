@@ -244,4 +244,39 @@ textarea {
     page-break-after: avoid;
   }
 }
+body {
+  background-color: #677173;
+  text-align: center;
+}
 
+h1 {
+  color: #c8c8c1;
+}
+
+p {
+  color: white;
+}
+
+a {
+  color: #fdfcfc;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 20px auto
+}
+
+/*
+ i body: text-align center: centrerar allting
+ nedanför
+
+ auto:Gör att höjden anpassas automatiskt
+så bilden inte blir skev.
+img: bild som jag ladda upp
+margin: ger lite luftrum, display block egen rad
+
+h1 colour: header/rubrik
+p colour: paragraf text
+a colour: länk färg */
